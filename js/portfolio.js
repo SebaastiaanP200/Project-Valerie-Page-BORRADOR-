@@ -1,4 +1,5 @@
 /* LOGICA PORTFOLIO */
+
 // const carouselContainer = document.querySelector(".carousel__container");
 
 // const getImg = async () => {
